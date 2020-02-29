@@ -1,0 +1,184 @@
+﻿  Basket.c
+c:\users\buğra\desktop\proje\proje\proje\basket.c(63): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(63): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(64): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(64): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(65): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(65): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(66): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(66): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(71): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(71): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(72): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(72): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(73): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(73): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(74): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(74): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(75): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(75): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(76): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(76): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(77): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(77): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(81): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(81): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(82): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(82): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(83): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(83): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(84): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(84): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(85): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(85): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(86): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(86): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(87): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(87): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(90): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(90): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(93): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(93): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(96): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(96): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(99): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(99): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(102): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(102): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(105): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(105): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(108): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(108): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(111): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(111): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(113): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(113): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(114): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(114): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(115): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(115): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(116): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(116): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(117): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(117): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(118): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(118): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(119): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(119): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(153): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(153): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(154): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(154): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(155): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(155): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(156): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(156): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(160): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(160): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(161): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(161): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(162): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(162): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(171): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(171): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(172): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(172): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(173): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(173): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(174): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(174): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(178): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(178): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(179): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(179): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(180): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(180): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(189): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(189): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(190): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(190): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(191): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(191): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(192): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(192): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(196): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(196): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(197): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(197): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(198): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(198): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(207): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(207): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(208): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(208): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(209): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(209): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(210): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(210): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(214): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(214): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(215): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(215): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(216): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(216): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(225): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(225): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(226): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(226): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(227): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(227): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(228): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(228): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(232): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(232): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(233): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(233): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(234): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(234): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(243): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(243): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(244): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(244): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(245): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(245): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(246): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(246): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(250): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(250): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(251): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(251): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(252): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(252): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(261): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(261): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(262): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(262): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(263): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(263): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(264): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(264): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(268): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(268): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(269): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(269): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(270): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(270): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(279): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(279): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(280): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(280): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(281): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(281): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(282): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(282): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(286): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(286): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(287): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(287): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(288): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(288): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(297): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(297): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+c:\users\buğra\desktop\proje\proje\proje\basket.c(300): warning C4047: 'işlev': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+c:\users\buğra\desktop\proje\proje\proje\basket.c(300): warning C4024: 'al_draw_bitmap': 4 biçimsel ve gerçek parametresi için farklı türler
+  proje.vcxproj -> C:\Users\Buğra\Desktop\proje\proje\x64\Debug\proje.exe
